@@ -16,7 +16,7 @@
 		<!-- Site Title -->
 		<title>F I Y E O</title>
 
-		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 			<!--
 			CSS
 			============================================= -->
@@ -24,7 +24,7 @@
 			<link rel="stylesheet" href="css/font-awesome.min.css">
 			<link rel="stylesheet" href="css/bootstrap.css">
 			<link rel="stylesheet" href="css/magnific-popup.css">
-			<link rel="stylesheet" href="css/nice-select.css">					
+			<link rel="stylesheet" href="css/nice-select.css">
 			<link rel="stylesheet" href="css/animate.min.css">
 			<link rel="stylesheet" href="css/owl.carousel.css">
 			<link rel="stylesheet" href="css/main.css">
@@ -36,14 +36,14 @@
 
 
 			<!-- start banner Area -->
-			<section class="banner-area relative" id="home">	
+			<section class="banner-area relative" id="home">
 				<div class="overlay overlay-bg"></div>
 				<div class="container">
 					<div class="row fullscreen d-flex align-items-center justify-content-center">
 						<div class="banner-content col-lg-12">
 							<h1 class="text-white">
-								Find Your <span> Event Organizer </span>				
-							</h1>	
+								Find Your <span> Event Organizer </span>
+							</h1>
 							<form action="search.html" class="serach-form-area">
 								<div class="row justify-content-center form-wrap">
 									<div class="col-lg-4 form-cols">
@@ -69,21 +69,21 @@
 												<option value="4">Goverment</option>
 												<option value="5">Development</option>
 											</select>
-										</div>				
+										</div>
 									</div>
 									<div class="col-lg-2 form-cols">
 									    <button type="button" class="btn btn-info">
 									      <span class="lnr lnr-magnifier"></span> Search
 									    </button>
-									</div>					
+									</div>
 								</div>
-							</form>	
+							</form>
 							<p class="text-white"> <span>Search by tags:</span> Event, Organizer, Services, Event Organizer, Website, Information System</p>
-						</div>								
+						</div>
 					</div>
 				</div>
 			</section>
-			<!-- End banner Area -->	
+			<!-- End banner Area -->
 
 			<!-- Start features Area -->
 			<section class="features-area">
@@ -120,13 +120,13 @@
 									Easily meeting up by making appointment.
 								</p>
 							</div>
-						</div>																		
+						</div>
 					</div>
-				</div>	
+				</div>
 			</section>
 			<!-- End features Area -->
-			
-			
+
+
 			<!-- Start feature-cat Area -->
 			<section class="feature-cat-area pt-100" id="category">
 				<div class="container">
@@ -137,7 +137,7 @@
 								<p>Providing the best alternatives for your events</p>
 							</div>
 						</div>
-					</div>						
+					</div>
 					<div class="row">
 						<div class="col-lg-2 col-md-4 col-sm-6">
 							<div class="single-fcat">
@@ -185,15 +185,15 @@
 									<img src="img/irene/check-mark.png" alt="">
 								</a>
 								<p>Brand Activation</p>
-							</div>			
-						</div>																											
+							</div>
+						</div>
 					</div>
-				</div>	
+				</div>
 			</section>
 			<!-- End feature-cat Area -->
 
         <section class="section-gap" style="padding:100px 0; margin: 0px">
-        <div class="container"> 
+        <div class="container">
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <ol class="carousel-indicators">
@@ -211,7 +211,7 @@
         <div class="carousel-item">
         <img class ="d-block w-100" src="img/13617.jpg" alt="Second" style="width:100%; height:300px;">
         </div>
-    
+
         <div class="carousel-item">
         <img class ="d-block w-100" src="img/30070.jpg" alt="Third" style="width:100%; height: 300px;">
         </div>
@@ -228,7 +228,7 @@
         </a>
         </div>
         </div>
-        </section>                                                                                            
+        </section>
 			<!-- Start post Area -->
 			<section class="post-area section-gap" style="padding: 0px 0; margin-bottom: 50px">
 				<div class="container">
@@ -240,10 +240,10 @@
 								<h2 class="mb-10">Featured Event Organizer</h2>
 							</div>
 						</div>
-					</div>	
+					</div>
 							<div class="single-post d-flex flex-row">
 								<div class="thumb">
-								<img src="../dashboard-eo/img/avatar-1.jpg" alt="">  	
+								<img src="../dashboard-eo/img/avatar-1.jpg" alt="">
 								</div>
 								<div class="details" style="margin-left: 50px;">
 								<div class="title d-flex flex-row">
@@ -263,7 +263,7 @@
 							</div>
 				            <div class="single-post d-flex flex-row">
 								<div class="thumb">
-								<img src="../dashboard-eo/img/avatar-1.jpg" alt="">  	
+								<img src="../dashboard-eo/img/avatar-1.jpg" alt="">
 								</div>
 								<div class="details" style="margin-left: 50px;">
 								<div class="title d-flex flex-row">
@@ -283,7 +283,7 @@
 							</div>
 				            <div class="single-post d-flex flex-row">
 								<div class="thumb">
-								<img src="../dashboard-eo/img/avatar-1.jpg" alt="">  	
+								<img src="../dashboard-eo/img/avatar-1.jpg" alt="">
 								</div>
 								<div class="details" style="margin-left: 50px;">
 								<div class="title d-flex flex-row">
@@ -301,7 +301,7 @@
 									<p class="address"><span class="fa fa-money"></span>&nbsp; Start from IDR 3.000.000 </p>
 								</div>
 							</div>
-							
+
 							<a class="text-uppercase loadmore-btn mx-auto d-block" href="category.html">View More</a>
 
 						</div>
@@ -321,10 +321,10 @@
 
 						</div>
 					</div>
-				</div>	
+				</div>
 			</section>
 			<!-- End post Area -->
-				
+
 
 			<!-- Start callto-action Area -->
 			<section class="callto-action-area section-gap" style="padding: 80px 0;" id="join">
@@ -337,12 +337,24 @@
 								<a class="primary-btn" href="register-eo.php">Register as EO</a>
 							</div>
 						</div>
-					</div>	
-				</div>	
+					</div>
+				</div>
+				<div id ="nice-select-group">
+					<div class="form-group" id="div-of-category">
+						<div class="form-select" id="default-select">
+						<label for="category"><b style="color:black">Company Category</b></label>
+						<select id="category" required multiple='multiple' name='nama_kategori[]'>
+						<option value='belum milih' selected>- Choose Category -</option>
+						<option value='belum milih 1' >- Choose Category 1 -</option>
+						</select>
+						</div>
+					</div>
+				</div>
+				<button onclick="$('#nice-select-group').append($('#div-of-category').clone().attr('id', 'div-of-category'+ clone_count++));">Add new</button>
 			</section>
 			<!-- End calto-action Area -->
-		
-			<!-- start footer Area -->		
+
+			<!-- start footer Area -->
 			<footer class="footer-area section-gap" style="padding:50px 0; height:345px;">
 				<div class="container">
 					<div class="row">
@@ -354,7 +366,7 @@
 									<li><a href="#">Privacy Policy</a></li>
 									<li><a href="#">Terms & Conditions</a></li>
 									<li><a href="#">Help</a></li>
-									
+
 								</ul>
 							</div>
 						</div>
@@ -362,7 +374,7 @@
 							<div class="single-footer-widget newsletter">
 								<h6>Contact Us</h6>
 								<p>E-mail : customerservice@fiyeo.com</p>
-                                <p>Phone : (+62) 81250381345</p>	
+                                <p>Phone : (+62) 81250381345</p>
 							</div>
 						</div>
 						<div class="col-lg-3  col-md-12">
@@ -374,7 +386,7 @@
                            <a href="#"><i class="fa fa-instagram"></i></a>
 								</ul>
 							</div>
-						</div>						
+						</div>
 					</div>
 
 					<div class="row footer-bottom d-flex justify-content-center" style="padding: 40px;">
@@ -385,25 +397,25 @@
 					</div>
 				</div>
 			</footer>
-			<!-- End footer Area -->		
+			<!-- End footer Area -->
 
 			<script src="js/vendor/jquery-2.2.4.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-			<script src="js/vendor/bootstrap.min.js"></script>			
+			<script src="js/vendor/bootstrap.min.js"></script>
 			<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
-  			<script src="js/easing.min.js"></script>			
+  			<script src="js/easing.min.js"></script>
 			<script src="js/hoverIntent.js"></script>
-			<script src="js/superfish.min.js"></script>	
+			<script src="js/superfish.min.js"></script>
 			<script src="js/jquery.ajaxchimp.min.js"></script>
-			<script src="js/jquery.magnific-popup.min.js"></script>	
-			<script src="js/owl.carousel.min.js"></script>			
+			<script src="js/jquery.magnific-popup.min.js"></script>
+			<script src="js/owl.carousel.min.js"></script>
 			<script src="js/jquery.sticky.js"></script>
-			<script src="js/jquery.nice-select.min.js"></script>			
-			<script src="js/parallax.min.js"></script>		
-			<script src="js/mail-script.js"></script>	
-			<script src="js/main.js"></script>	
+			<script src="js/jquery.nice-select.min.js"></script>
+			<script src="js/parallax.min.js"></script>
+			<script src="js/mail-script.js"></script>
+			<script src="js/main.js"></script>
+			<script>
+				var clone_count = 0;
+			</script>
 		</body>
 	</html>
-
-
-
