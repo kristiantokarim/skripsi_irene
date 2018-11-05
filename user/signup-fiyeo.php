@@ -56,7 +56,7 @@
 			<!-- End banner Area -->	
             
                     <div class="container" style="padding: 60px;">
-							<form class="form-area" role="form" id="signup-form" action="signup.php" method="POST" onsubmit="registerFunction()">	
+							<form class="form-area" role="form" id="signup-form" action="signup.php" method="POST">	
                                 <div class= "col-lg-6 offset-lg-3">
 									<div class="form-group">
                                         <div class="input-group">
@@ -242,7 +242,8 @@ function(){
     ev.preventDefault();
     ev.cancelBubble();
     });   
-    }    
+    }
+    $('#signup-form').submit(registerFunction());    
     </script>
                                
 <script type="text/javascript">
